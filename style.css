@@ -1,0 +1,95 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: lightcoral;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 4%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    margin-bottom: 250px;
+}
+.button-link{
+    font-size: 30px;
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 10px 30px;
+    background-image:linear-gradient(45deg,silver,gray);
+    color:white;
+}
+.col{
+    color:orange;
+}
+#ok{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+* {
+    box-sizing: border-box;
+ }
+ .imageColumn {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+ }
+ h1{
+    text-align: center;
+ }
+ .alignRow{
+     padding-left: 35px;
+     padding-right: 35px;
+ }
+ .a{
+    padding-left: 35px;
+    padding-right: 35px
+ }
+ .a-color{
+     color:orange;
+ }
+ .p{
+    padding-left: 35px;
+    padding-right: 35px 
+}
+.p-color{
+    color:grey
+}
+ 
+#work{
+    border:1px soid black;
+    background-image: url(Group_33094_1.png);
+    width: 900px;
+    height:200px;
+    border-radius: 20px;
+    padding-top:70px ;
+    margin-left: 23%;
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   font-size: 50px;
+   text-align: center;
+    
+}
+.b{
+   border:1px solid black;
+   margin-left: 80%;
+   padding-top:70px ;
+
+   
+}
+
+
